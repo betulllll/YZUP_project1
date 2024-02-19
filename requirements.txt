@@ -1,3 +1,5 @@
-streamlit
-matplotlib
-scikit-learn
+streamlit~=1.12.0
+matplotlib~=3.4.3
+scikit-learn~=0.24.2
+pandas~=1.3.4
+seaborn~=0.11.2
