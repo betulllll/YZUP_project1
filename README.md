@@ -5,9 +5,6 @@ streamlit run main.py
 ```
 
 ## Usage - Docker
-Derste 
-docker run -p 8080:8080 mlimage bash ile çalıştırmak istemiştik, o metot ile farklı bilgisayarlarda denediğimde sorun olmadı. Aşağıdaki şekliyle doğrudan çalışacaktır.
-
 Run
 ```console
 # Build a local docker image
@@ -15,6 +12,3 @@ docker build -t mlimage .
 # Run the image
 docker run -p 8080:8080 mlimage
 ```
-
-## Demo
-Visit [demo](https://autom-coder-ml-methods-streamlit-main-g0wljb.streamlit.app/)
